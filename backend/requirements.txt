@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+groq
+supabase
+python-dotenv
+pydantic
+python-dateutil  
+ 
